@@ -1,1 +1,2 @@
-print("asdasd")
+print("asda")
+print("มะเขือ")
